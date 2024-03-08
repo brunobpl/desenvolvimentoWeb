@@ -1,0 +1,43 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+    /*Alinha todos os elementos ao centro*/
+    text-align: center;
+    
+    /*Padrão navegador 8px de margem*/
+    margin: 0;
+}
+
+#hero{
+
+    width: 592px;
+
+    margin-top: 0;
+
+    margin-right: auto;
+
+    margin-bottom: 72px;
+
+    margin-left: auto;
+
+}
+
+#hero img{
+
+    margin-bottom: 72px;
+
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+}
+
+h1 span{
+
+    color: #0075FF;
+    font-weight: bold;
+}
